@@ -1,0 +1,1 @@
+12 >= 2 ? console.log("GEI") : console.log("HETE");bb8
