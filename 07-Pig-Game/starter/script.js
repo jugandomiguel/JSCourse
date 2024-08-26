@@ -14,7 +14,7 @@ let player1Current = 0;
 let player2Score = 0;
 let player2Current = 0;
 
-//asda
+//asdap
 const randomNumber = function () {
   let number = Math.trunc(Math.random() * 6) + 1;
   return number;
